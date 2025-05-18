@@ -1,0 +1,21 @@
+body.dark-mode {
+    background-color: #121212;
+    color: #fff;
+  }
+  
+  .priority-high { color: #dc3545; }
+  .priority-medium { color: #ffc107; }
+  .priority-low { color: #198754; }
+  
+  .overdue { color: red; }
+  
+  .countdown {
+    font-size: 0.9em;
+    color: #6c757d;
+  }
+  
+  .completed .task-title {
+    text-decoration: line-through;
+    color: gray;
+  }
+  
